@@ -1,0 +1,20 @@
+
+img {
+  object-fit: cover;
+}
+
+h2 {
+  color: white;
+  font-family: Roboto;
+}
+
+/* Pour Chrome, Safari, et Opera */
+*::-webkit-scrollbar {
+  display: none; /* Cela cache la barre de défilement */
+}
+
+/* Pour IE, Edge, et Firefox */
+* {
+  -ms-overflow-style: none;  /* Pour Internet Explorer et Edge */
+  scrollbar-width: none;  /* Pour Firefox */
+}

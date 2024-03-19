@@ -1,0 +1,9 @@
+
+
+#cont0 {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  padding: 50px;
+}
